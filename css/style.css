@@ -1,5 +1,5 @@
 .container{
-	padding-top: 100px;
+	padding-top: 70px;
 }
 
 .btns{
@@ -26,4 +26,10 @@
 	margin: 0 auto;
 	margin-bottom: 10px;
 	font-size: 25px;
+}
+
+.stat{
+	width: 203px;
+	margin: 20px auto;
+	font-size: 20px;
 }
